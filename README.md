@@ -1,6 +1,6 @@
 # Transferências de mensagens:
-## para que seja enviado uma mensagem deve-se seguir alguns parâmetros, onde cada parâmetro possui uma camada.
-### Ao instânciar um objeto, deve-se passar os parâmetros mensagem, eletronica, endereco, internet, enviar, receber. 
+## Para que seja enviado uma mensagem deve-se seguir alguns parâmetros, onde cada parâmetro possui uma camada.
+### Ao instânciar um objeto, deve-se passar os parâmetros mensagem, eletronica, endereco, internet, enviar e receber. 
 ###     ***Todos os parâmetros devem ser verdadeiros para que ocorra o envio da mensagem.
 
     -   eletronica: Estado do Hardware 
